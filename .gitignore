@@ -1,0 +1,28 @@
+# Virtual environments
+.env/
+venv/
+.venv/
+
+# Environment variables / secrets
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local databases and runtime files
+instance/
+*.sqlite3
+*.db
+dump.rdb
+celerybeat-schedule*
+
+# Generated CSV exports
+static/*.csv
+
+# Archives / large binaries
+*.tar.gz
+
+# OS files
+.DS_Store
