@@ -2,6 +2,8 @@
 
 A multi-user quiz platform: admins build subjects, chapters, quizzes and questions; users take timed quizzes and track their scores. Background jobs run on Celery and Redis for reminders, monthly reports and CSV exports.
 
+Built as the IIT Madras Modern Application Development II course project.
+
 > Built in 2025. This repository is a cleaned public copy of the original private repo: dependencies, local databases and secrets were removed, so its history starts fresh.
 
 ## What it does
