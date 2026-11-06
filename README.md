@@ -18,6 +18,16 @@ Built as the IIT Madras Modern Application Development II course project.
 - **Caching:** subject, chapter and quiz data are cached in Redis and cleared when that data changes.
 - **Frontend:** a Vue 2 single-page app (Vue Router, Chart.js), served by Flask.
 
+## Screenshots
+
+*Captured from a local run with demo data.*
+
+| User dashboard | Timed quiz attempt |
+|---|---|
+| ![User dashboard](screenshots/user-dashboard.png) | ![Quiz attempt](screenshots/quiz-attempt.png) |
+| **User performance summary** | **Admin analytics** |
+| ![User summary](screenshots/user-summary.png) | ![Admin analytics](screenshots/admin-analytics.png) |
+
 ## My role
 
 Solo project: I designed and built the backend, API, background jobs and frontend.
